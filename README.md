@@ -1,10 +1,10 @@
 # Course Catalog Generator Streamlit App
 
 ## Overview
-This project provides a Streamlit interface for scraping university course catalog pages and downloading structured course data as a CSV file. It builds on the course catalog scraping idea with a user-friendly web app.
+I built this project to provide a Streamlit interface for scraping university course catalog pages and downloading structured course data as a CSV file. It builds on the course catalog scraping idea with a user-friendly web app.
 
 ## Motivation
-The app demonstrates how a data extraction script can be wrapped in a simple interface for non-programmers. It is a practical example of combining web scraping, data cleaning, and lightweight app development.
+I use the app to demonstrate how a data extraction script can be wrapped in a simple interface for non-programmers. It is a practical example of combining web scraping, data cleaning, and lightweight app development.
 
 ## Methods
 - Accept a course catalog URL from the user.
